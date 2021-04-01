@@ -5,15 +5,19 @@
  */
 
 /**
- * IKIN HASANOV's response to Homework [x], Module [x].
+ * IKIN HASANOV's response to Homework "Programming patterns. Factory, Builder",
+ *                                                          Module 2.
  *
  *   Task:
+ *      Develop for your class
+ *          1. Factory.
+ *          2. Abstract factory.
+ *          3. Create a builder for the class Student.
  *
- *
- * @version 1.10
- * @Since [DD] [MMM] [YYYY]
+ * @version 1.10.1
+ * @Since   30-03-2021
  * @class
- * @author Ilkin Hasanov
+ * @author  Ilkin Hasanov
  */
 package Student;
 
