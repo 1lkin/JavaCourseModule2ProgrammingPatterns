@@ -1,15 +1,19 @@
 /**
- *      IKIN HASANOV's response to Homework 4, Module 2.
- *                                    DATE: 05 JUN 2020
+ * Ilkin Hasanov
+ * <p>
+ * Copyright (c) HASANOV.
+ */
+
+/**
+ * IKIN HASANOV's response to Homework [x], Module [x].
  *
- *    Task:
+ *   Task:
  *
- *   Create a class Student  - 25 fields;
- *   Create a builder for the class Student.
  *
- *   INFO:  The class Student has 27 fields,
- *          constructors, Getters and Setters,
- *          and static class Builder
+ * @version 1.10
+ * @Since [DD] [MMM] [YYYY]
+ * @class
+ * @author Ilkin Hasanov
  */
 package Student;
 
